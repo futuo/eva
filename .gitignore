@@ -1,0 +1,16 @@
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build-aux/
+config.h.in
+configure
+Makefile
+config.h
+config.log
+config.status
+stamp-h1
+autoscan.log
+eva-engine/.deps/
+eva-engine/eva
+eva-engine/main.o
+eva-engine/src/.deps/
