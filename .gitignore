@@ -14,3 +14,6 @@ eva-engine/.deps/
 eva-engine/eva
 eva-engine/main.o
 eva-engine/src/.deps/
+eva-engine/src/.dirstamp
+eva-engine/src/main.o
+main.plist
